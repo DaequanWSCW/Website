@@ -11,14 +11,15 @@ body
     justify-content: right;
     align-items: right;
     min-height: 100vh;
-    background-color: #000000;
+    background-color: #ffffff;
 }
 nav
 {
+    float: left;
     position:relative;
     width: 650px;
     height: 60px;
-    background:#222;
+    background:#ffffff;
     border-radius: 8px;
     display: flex;
     justify-content: left;
@@ -30,7 +31,7 @@ nav a
     display: inline-block;
     font-size: 20px;
     font-weight: bolder;
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
     padding: 32px;
     z-index: 1;
@@ -42,7 +43,7 @@ nav span
     left: 0;
     width: 115px;
     height: 100%;
-    background: #90a0cc;
+    background: #9b9b9b;
     border-radius: 8px;
     transition: 0.3s;
 }
@@ -65,4 +66,10 @@ nav a:nth-child(4):hover~span
 nav a:nth-child(5):hover~span
 {
     left: 530px;
+}
+h1
+{
+    color: #aaa8a8;
+    align-content: center;
+    align-items: center;
 }
