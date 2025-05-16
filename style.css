@@ -45,7 +45,7 @@ nav span
     left: 0;
     width: 17.5%;
     height: 100%;
-    background: #9b9b9b;
+    background: #d9d9d9;
     border-radius: 8px;
     transition: 0.3s;
 }
@@ -74,6 +74,13 @@ h1
     color: #aaa8a8;
     align-content: center;
     align-items: center;
+}
+
+
+.circlethingy
+{
+    fill: #adc1c4;
+    opacity: 0.6;
 }
 
 
