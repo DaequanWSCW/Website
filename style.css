@@ -45,7 +45,7 @@ nav span
     left: 0;
     width: 17.5%;
     height: 100%;
-    background: #d9d9d9;
+    background: #807575;
     border-radius: 8px;
     transition: 0.3s;
 }
@@ -79,7 +79,7 @@ h1
 
 .circlethingy
 {
-    fill: #adc1c4;
+    fill: #030303;
     opacity: 0.6;
 }
 
