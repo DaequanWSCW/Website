@@ -11,7 +11,7 @@ body
     justify-content: right;
     align-items: right;
     min-height: 100;
-    background-color: #ffffff;
+    background-color: #979696;
     overflow-y: hidden;
     
 }
@@ -21,7 +21,7 @@ nav
     position:relative;
     width: 650px;
     height: 60px;
-    background:#ffffff;
+    background:x#747272;
     border-radius: 8px;
     display: flex;
     justify-content: left;
@@ -33,7 +33,7 @@ nav a
     display: inline-block;
     font-size: 20px;
     font-weight: bolder;
-    color: #000000;
+    color: #e7e7e7;
     text-decoration: none;
     padding: 32px;
     z-index: 1;
@@ -45,7 +45,7 @@ nav span
     left: 0;
     width: 17.5%;
     height: 100%;
-    background: #807575;
+    background: #616161;
     border-radius: 8px;
     transition: 0.3s;
 }
@@ -71,7 +71,7 @@ nav a:nth-child(5):hover~span
 }
 h1
 {
-    color: #aaa8a8;
+    color: #beb4b4;
     align-content: center;
     align-items: center;
 }
@@ -79,7 +79,7 @@ h1
 
 .circlethingy
 {
-    fill: #030303;
+    fill: #000000;
     opacity: 0.6;
 }
 
